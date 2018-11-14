@@ -1,0 +1,14 @@
+﻿  pch.cpp
+  OpenCV2.cpp
+c:\users\hammi\desktop\projects\opencv2\opencv2\opencv2.cpp(25): warning C4129: 'h': unrecognized character escape sequence
+c:\users\hammi\desktop\projects\opencv2\opencv2\opencv2.cpp(25): warning C4129: 'D': unrecognized character escape sequence
+c:\users\hammi\desktop\projects\opencv2\opencv2\opencv2.cpp(25): warning C4129: 'o': unrecognized character escape sequence
+c:\users\hammi\desktop\projects\opencv2\opencv2\opencv2.cpp(25): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\hammi\desktop\projects\opencv2\opencv2\opencv2.cpp(62): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hammi\desktop\projects\opencv2\opencv2\opencv2.cpp(67): warning C4244: '=': conversion from 'double' to 'uint8_t', possible loss of data
+c:\users\hammi\desktop\projects\opencv2\opencv2\opencv2.cpp(77): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hammi\desktop\projects\opencv2\opencv2\opencv2.cpp(79): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  All 310 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  OpenCV2.vcxproj -> C:\Users\hammi\Desktop\Projects\OpenCV2\x64\Release\OpenCV2.exe
